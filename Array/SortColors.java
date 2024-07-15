@@ -17,5 +17,5 @@ public class SortColors {
             arr[a]=arr[b];
             arr[b]=temp;
         }
-    
+     
 }
